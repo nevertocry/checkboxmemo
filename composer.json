@@ -1,5 +1,5 @@
 {
-    "name": "laravel-admin-ext/checkboxmemo",
+    "name": "nevertocry/checkboxmemo",
     "description": "复选框加备注栏.",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
